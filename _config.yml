@@ -4,16 +4,16 @@ email: weo3y@virginia.edu
 author: WilliamOlsen
 
 keywords: jekyll, jekyll theme, portfolio theme, artist theme
-description: Witty description here.
+description: This site is my platform for sharing my recent thoughts on current research trends, teaching methodologies, and other topics related to post doctoral life.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+  url: "https://williamolsen.github.io/new-site/"
 
 header: images/trefoil.png
 
 # Formspree contact Form
-contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
+#contact_form: "https://formspree.io/ctarwater@chrisanthropic.com"
 
 
 # Exclude our ruby stuff
